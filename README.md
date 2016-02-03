@@ -1,7 +1,7 @@
 # JS-Algorithms
 
-***
-### Various Classic Computer Science Algorithms
+
+#### Classic CS Algorithms
 ***
 1. [Singly Linked List](https://github.com/knowyrrole101/JS-Algorithms/blob/master/singly_linked_list.js)
 2. Doubly Linked List
@@ -12,3 +12,5 @@
 7. Hash Table
 8. Various Sorting Algorithms
 9. Palindrome, various classic algos.
+
+Work in Progress :+1: :shipit:
